@@ -21393,7 +21393,7 @@ ayQ(a,b,c,d,e,f,g,h){return new A.pr(c,h,b,a,g,d,e,f,null,null,A.B(t.FF,t.S))},
 Ai(a){var s=0,r=A.a0(t.dh),q,p,o,n,m,l
 var $async$Ai=A.a1(function(b,c){if(b===1)return A.Y(c,r)
 while(true)switch(s){case 0:s=3
-return A.P(A.aCl(A.ns("https://adhanat.github.io/calendars/"+a,0,null)),$async$Ai)
+return A.P(A.aCl(A.ns("https://www.adhan.at/calendars/"+a,0,null)),$async$Ai)
 case 3:l=c
 s=l.b===200?4:5
 break
@@ -73301,7 +73301,7 @@ case 2:s=1
 break
 case 5:q=10
 s=13
-return A.P(A.aCl(A.ns("https://adhanat.github.io/calendars/calendars.json",0,null)).rk(0,B.pQ,new A.ap_()),$async$h6)
+return A.P(A.aCl(A.ns("https://www.adhan.at/calendars/calendars.json",0,null)).rk(0,B.pQ,new A.ap_()),$async$h6)
 case 13:n=a8
 m=A.a([],t.Rh)
 s=n.b===200?14:15
