@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Islamisches Kulturzentrum Graz",
+    "city": "Graz",
+    "calendar": "graz_islamischesKulturzentrumGraz.json"
+  },
+  {
+    "name": "Islamisches Zentrum der Bosniaken in Österreich \"Ebu Hanife\"",
+    "city": "Wien",
+    "calendar": "wien_islamischesZentrumDerBosniaken.json"
+  },
+  {
+    "name": "Islamisches Zentrum Wien",
+    "city": "Wien",
+    "calendar": "wien_islamischesZentrumWien.json"
+  }
+]
