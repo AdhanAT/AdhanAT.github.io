@@ -13,5 +13,10 @@
     "name": "Islamisches Zentrum Wien",
     "city": "Wien",
     "calendar": "wien_islamischesZentrumWien.json"
+  },
+  {
+    "name": "Dzemat \"Bosna\" Salzburg",
+    "city": "Salzburg",
+    "calendar": "salzburg_dzematBosnaSalzburg.json"
   }
 ]
