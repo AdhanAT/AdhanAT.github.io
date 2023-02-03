@@ -5,6 +5,11 @@
     "calendar": "graz_islamischesKulturzentrumGraz.json"
   },
   {
+    "name": "Ihlas Moscheegemeinde",
+    "city": "Graz",
+    "calendar": "graz_ihlasMoscheegemeinde.json"
+  },
+  {
     "name": "Islamisches Zentrum der Bosniaken in Österreich \"Ebu Hanife\"",
     "city": "Wien",
     "calendar": "wien_islamischesZentrumDerBosniaken.json"
